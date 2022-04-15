@@ -21,7 +21,7 @@
 
 
       "ovftool_options": ["--shaAlgorithm=SHA1","--eula@=eula.txt"],
-      "guest_os_type": "centos-64",
+      "guest_os_type": "centos7-64",
       "http_directory": "http",
       "network": "nat",
       "memory": 32768,
